@@ -1,0 +1,13 @@
+请求方法：GET 
+请求url：/ 
+请求头对象：{
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "accept-encoding": "gzip, deflate, sdch, br",
+    "accept-language": "zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2",
+    "cookie": "Webstorm-56652594=b0cdd951-3ee7-4ca5-b014-93aac6b3b1aa; Webstorm-56652595=6ecae868-e65f-4b80-8d49-7f7b7063a7cc; Webstorm-56652954=75b625c5-d904-4a26-892d-68d9a59c038f; Hm_lvt_1ad0a5c62a113bb874be8bb514b0a70d=1488866582"
+} 
+请求http版本：1.1 

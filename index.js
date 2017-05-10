@@ -6,8 +6,12 @@ const url = require('url');
 const superagent = require('superagent'); //http请求模块
 const cUrl = "https://cnodejs.org/"; //要爬的url cnblog
 
+const async = require('async');//控制并发模块
+
 const bilibiliUrl = "http://www.bilibili.com/ranking#!/all/1/1/3/"; //B站排行榜URL
 const bilibiliBaseUrl = "http://www.bilibili.com/";
+
+let urls = [];
 
 //爬虫组建1
 superagent.get(cUrl)
